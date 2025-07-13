@@ -1,0 +1,183 @@
+name,tags,sugar_g,cholesterol_mg,meal_type,sodium_mg,calories,protein_g,fiber_g,fat_g,serving_size_g,for_diabetes,for_hypertension,for_cholesterol,vegan_friendly,gluten_free,nut_allergy_safe,soy_allergy_safe,lactose_allergy_safe,gluten_allergy_safe,egg_allergy_safe,for_weight_loss,for_weight_gain,for_weight_maintenance,recipe
+Oatmeal with Berries,"vegetarian, sweet",7.0,5,breakfast,106,180,6,4.0,3,150,True,True,True,False,False,True,True,True,True,True,True,False,False,Prepare and cook Oatmeal with Berries as desired.
+Avocado Toast,"vegetarian, gluten-free",2.0,0,breakfast,157,220,5,5.0,10,120,True,False,True,False,True,True,True,True,False,True,True,False,False,"Toast bread, top with ingredients."
+Vegan Smoothie,"vegan, drink",9.0,0,breakfast,89,160,3,2.0,1,250,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Vegan Smoothie as desired.
+Boiled Eggs,high-protein,1.0,300,breakfast,160,150,13,0.0,10,100,True,False,False,False,False,True,True,True,True,True,True,False,False,Prepare and cook Boiled Eggs as desired.
+Chia Pudding,"vegan, sweet",4.0,0,breakfast,63,140,4,6.0,5,100,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Chia Pudding as desired.
+Greek Yogurt Parfait,"vegetarian, sweet, dairy",10.0,10,breakfast,97,200,12,1.0,5,150,True,True,True,False,False,True,True,True,True,True,True,False,False,"Layer yogurt, fruit, and granola in a glass."
+Protein Pancakes,"high-protein, sweet, egg",6.0,30,breakfast,136,290,20,2.0,6,180,True,True,True,False,False,True,True,True,True,False,True,False,False,"Mix batter, cook on griddle until golden."
+Almond Butter Toast,"vegetarian, gluten-free, nut",4.0,0,breakfast,142,240,7,3.0,12,100,True,False,True,False,True,True,True,True,False,True,True,False,False,"Toast bread, top with ingredients."
+Spinach Omelette,"vegetarian, high-protein, egg",1.0,220,breakfast,117,210,14,1.0,10,140,True,True,False,False,False,True,True,True,True,False,True,False,False,"Beat eggs, cook in pan with fillings, fold and serve."
+Quinoa Salad,"vegan, gluten-free",3.0,0,lunch,107,250,8,5.0,9,200,True,True,True,True,True,True,True,True,False,True,True,False,False,Chop vegetables and mix with dressing.
+Grilled Chicken Breast,"high-protein, grill",0.0,85,lunch,149,290,31,0.0,6,180,True,False,False,False,False,True,True,True,True,True,True,False,False,Prepare and cook Grilled Chicken Breast as desired.
+Vegan Wrap,"vegan, wrap",7.0,0,lunch,94,250,12,4.0,10,200,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Vegan Wrap as desired.
+Tofu Salad,"vegan, salad, soy",5.0,0,lunch,149,220,17,6.0,8,180,True,False,True,True,False,True,False,True,True,True,True,False,False,Chop vegetables and mix with dressing.
+Lentil Soup,"vegan, soup",2.0,0,lunch,117,180,9,7.0,3,300,True,True,True,True,False,True,True,True,True,True,True,False,False,"Combine ingredients in pot, simmer until cooked."
+Chickpea Buddha Bowl,"vegan, gluten-free",5.0,0,lunch,130,270,10,6.0,9,250,True,True,True,True,True,True,True,True,False,True,True,False,False,Prepare and cook Chickpea Buddha Bowl as desired.
+Turkey Sandwich,"meat, sandwich, gluten",3.0,40,lunch,507,350,22,3.0,13,200,True,False,True,False,False,True,True,True,False,True,False,False,True,Prepare and cook Turkey Sandwich as desired.
+Zucchini Noodles,"low-carb, vegan",2.0,0,lunch,86,180,4,3.0,4,180,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Zucchini Noodles as desired.
+Eggplant Parmesan,"vegetarian, italian, dairy",6.0,35,lunch,417,320,12,4.0,15,230,True,False,True,False,False,True,True,True,True,True,False,False,True,Prepare and cook Eggplant Parmesan as desired.
+Grilled Salmon,"fish, grill",0.0,60,dinner,116,360,34,0.0,15,200,True,True,True,False,False,True,True,True,True,True,False,False,True,Prepare and cook Grilled Salmon as desired.
+Veggie Stir Fry,"vegan, asian",5.0,0,dinner,98,210,7,4.0,6,220,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Veggie Stir Fry as desired.
+Beef Burger,"beef, grill, gluten",12.0,80,dinner,558,550,30,2.0,25,250,False,False,False,False,False,True,True,True,False,True,False,True,False,Prepare and cook Beef Burger as desired.
+Gluten-Free Pasta,"gluten-free, pasta",3.0,10,dinner,150,300,9,3.0,11,220,True,False,True,False,True,True,True,True,False,True,True,False,False,"Boil pasta/rice, prepare sauce, then mix."
+Stuffed Peppers,"vegetarian, low-fat",4.0,5,dinner,148,230,8,4.0,7,180,True,False,True,False,False,True,True,True,True,True,True,False,False,Prepare and cook Stuffed Peppers as desired.
+Chicken Stir Fry,"high-protein, asian",4.0,70,dinner,240,370,26,3.0,11,220,True,False,True,False,False,True,True,True,True,True,False,False,True,Prepare and cook Chicken Stir Fry as desired.
+Black Bean Tacos,"vegan, mexican",2.0,0,dinner,175,290,11,6.0,7,200,True,False,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Black Bean Tacos as desired.
+Baked Cod,"fish, low-fat",1.0,50,dinner,124,250,22,0.0,5,190,True,True,True,False,False,True,True,True,True,True,True,False,False,Prepare and cook Baked Cod as desired.
+Sweet Potato Curry,"vegan, indian",8.0,0,dinner,149,310,6,5.0,12,260,True,False,True,True,False,True,True,True,True,True,False,False,True,Prepare and cook Sweet Potato Curry as desired.
+Oatmeal with Berries,"vegetarian, sweet",7.0,5,breakfast,99,190,7,4.0,4,150,True,True,True,False,False,True,True,True,True,True,True,False,False,Prepare and cook Oatmeal with Berries as desired.
+Avocado Toast,"vegetarian, gluten-free",2.0,0,breakfast,167,230,6,5.0,11,120,True,False,True,False,True,True,True,True,False,True,True,False,False,"Toast bread, top with ingredients."
+Vegan Smoothie,"vegan, drink",9.0,0,breakfast,87,170,4,2.0,2,250,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Vegan Smoothie as desired.
+Boiled Eggs,high-protein,1.0,300,breakfast,154,160,14,0.0,11,100,True,False,False,False,False,True,True,True,True,True,True,False,False,Prepare and cook Boiled Eggs as desired.
+Chia Pudding,"vegan, sweet",4.0,0,breakfast,41,150,5,6.0,6,100,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Chia Pudding as desired.
+Greek Yogurt Parfait,"vegetarian, sweet, dairy",10.0,10,breakfast,82,210,13,1.0,6,150,True,True,True,False,False,True,True,True,True,True,True,False,False,"Layer yogurt, fruit, and granola in a glass."
+Protein Pancakes,"high-protein, sweet, egg",6.0,30,breakfast,131,300,21,2.0,7,180,True,True,True,False,False,True,True,True,True,False,True,False,False,"Mix batter, cook on griddle until golden."
+Almond Butter Toast,"vegetarian, gluten-free, nut",4.0,0,breakfast,143,250,8,3.0,13,100,True,False,True,False,True,True,True,True,False,True,True,False,False,"Toast bread, top with ingredients."
+Spinach Omelette,"vegetarian, high-protein, egg",1.0,220,breakfast,112,220,15,1.0,11,140,True,True,False,False,False,True,True,True,True,False,True,False,False,"Beat eggs, cook in pan with fillings, fold and serve."
+Quinoa Salad,"vegan, gluten-free",3.0,0,lunch,92,260,9,5.0,10,200,True,True,True,True,True,True,True,True,False,True,True,False,False,Chop vegetables and mix with dressing.
+Grilled Chicken Breast,"high-protein, grill",0.0,85,lunch,157,300,32,0.0,7,180,True,False,False,False,False,True,True,True,True,True,True,False,False,Prepare and cook Grilled Chicken Breast as desired.
+Vegan Wrap,"vegan, wrap",7.0,0,lunch,118,260,13,4.0,11,200,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Vegan Wrap as desired.
+Tofu Salad,"vegan, salad, soy",5.0,0,lunch,121,230,18,6.0,9,180,True,True,True,True,False,True,False,True,True,True,True,False,False,Chop vegetables and mix with dressing.
+Lentil Soup,"vegan, soup",2.0,0,lunch,111,190,10,7.0,4,300,True,True,True,True,False,True,True,True,True,True,True,False,False,"Combine ingredients in pot, simmer until cooked."
+Chickpea Buddha Bowl,"vegan, gluten-free",5.0,0,lunch,116,280,11,6.0,10,250,True,True,True,True,True,True,True,True,False,True,True,False,False,Prepare and cook Chickpea Buddha Bowl as desired.
+Turkey Sandwich,"meat, sandwich, gluten",3.0,40,lunch,496,360,23,3.0,14,200,True,False,True,False,False,True,True,True,False,True,False,False,True,Prepare and cook Turkey Sandwich as desired.
+Zucchini Noodles,"low-carb, vegan",2.0,0,lunch,78,190,5,3.0,5,180,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Zucchini Noodles as desired.
+Eggplant Parmesan,"vegetarian, italian, dairy",6.0,35,lunch,413,330,13,4.0,16,230,True,False,True,False,False,True,True,True,True,True,False,False,True,Prepare and cook Eggplant Parmesan as desired.
+Grilled Salmon,"fish, grill",0.0,60,dinner,122,370,35,0.0,16,200,True,True,True,False,False,True,True,True,True,True,False,False,True,Prepare and cook Grilled Salmon as desired.
+Veggie Stir Fry,"vegan, asian",5.0,0,dinner,119,220,8,4.0,7,220,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Veggie Stir Fry as desired.
+Beef Burger,"beef, grill, gluten",12.0,80,dinner,567,560,31,2.0,26,250,False,False,False,False,False,True,True,True,False,True,False,True,False,Prepare and cook Beef Burger as desired.
+Gluten-Free Pasta,"gluten-free, pasta",3.0,10,dinner,166,310,10,3.0,12,220,True,False,True,False,True,True,True,True,False,True,False,False,True,"Boil pasta/rice, prepare sauce, then mix."
+Stuffed Peppers,"vegetarian, low-fat",4.0,5,dinner,144,240,9,4.0,8,180,True,False,True,False,False,True,True,True,True,True,True,False,False,Prepare and cook Stuffed Peppers as desired.
+Chicken Stir Fry,"high-protein, asian",4.0,70,dinner,245,380,27,3.0,12,220,True,False,True,False,False,True,True,True,True,True,False,False,True,Prepare and cook Chicken Stir Fry as desired.
+Black Bean Tacos,"vegan, mexican",2.0,0,dinner,176,300,12,6.0,8,200,True,False,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Black Bean Tacos as desired.
+Baked Cod,"fish, low-fat",1.0,50,dinner,123,260,23,0.0,6,190,True,True,True,False,False,True,True,True,True,True,True,False,False,Prepare and cook Baked Cod as desired.
+Sweet Potato Curry,"vegan, indian",8.0,0,dinner,145,320,7,5.0,13,260,True,False,True,True,False,True,True,True,True,True,False,False,True,Prepare and cook Sweet Potato Curry as desired.
+Oatmeal with Berries,"vegetarian, sweet",7.0,5,breakfast,88,200,8,5.0,5,150,True,True,True,False,False,True,True,True,True,True,True,False,False,Prepare and cook Oatmeal with Berries as desired.
+Avocado Toast,"vegetarian, gluten-free",2.0,0,breakfast,165,240,7,6.0,12,120,True,False,True,False,True,True,True,True,False,True,True,False,False,"Toast bread, top with ingredients."
+Vegan Smoothie,"vegan, drink",9.0,0,breakfast,61,180,5,3.0,3,250,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Vegan Smoothie as desired.
+Boiled Eggs,high-protein,1.0,300,breakfast,155,170,15,1.0,12,100,True,False,False,False,False,True,True,True,True,True,True,False,False,Prepare and cook Boiled Eggs as desired.
+Chia Pudding,"vegan, sweet",4.0,0,breakfast,67,160,6,7.0,7,100,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Chia Pudding as desired.
+Greek Yogurt Parfait,"vegetarian, sweet, dairy",10.0,10,breakfast,91,220,14,2.0,7,150,True,True,True,False,False,True,True,True,True,True,True,False,False,"Layer yogurt, fruit, and granola in a glass."
+Protein Pancakes,"high-protein, sweet, egg",6.0,30,breakfast,146,310,22,3.0,8,180,True,False,True,False,False,True,True,True,True,False,False,False,True,"Mix batter, cook on griddle until golden."
+Almond Butter Toast,"vegetarian, gluten-free, nut",4.0,0,breakfast,161,260,9,4.0,14,100,True,False,True,False,True,True,True,True,False,True,True,False,False,"Toast bread, top with ingredients."
+Spinach Omelette,"vegetarian, high-protein, egg",1.0,220,breakfast,135,230,16,2.0,12,140,True,True,False,False,False,True,True,True,True,False,True,False,False,"Beat eggs, cook in pan with fillings, fold and serve."
+Quinoa Salad,"vegan, gluten-free",3.0,0,lunch,98,270,10,6.0,11,200,True,True,True,True,True,True,True,True,False,True,True,False,False,Chop vegetables and mix with dressing.
+Grilled Chicken Breast,"high-protein, grill",0.0,85,lunch,159,310,33,1.0,8,180,True,False,False,False,False,True,True,True,True,True,False,False,True,Prepare and cook Grilled Chicken Breast as desired.
+Vegan Wrap,"vegan, wrap",7.0,0,lunch,103,270,14,5.0,12,200,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Vegan Wrap as desired.
+Tofu Salad,"vegan, salad, soy",5.0,0,lunch,135,240,19,7.0,10,180,True,True,True,True,False,True,False,True,True,True,True,False,False,Chop vegetables and mix with dressing.
+Lentil Soup,"vegan, soup",2.0,0,lunch,115,200,11,8.0,5,300,True,True,True,True,False,True,True,True,True,True,True,False,False,"Combine ingredients in pot, simmer until cooked."
+Chickpea Buddha Bowl,"vegan, gluten-free",5.0,0,lunch,124,290,12,7.0,11,250,True,True,True,True,True,True,True,True,False,True,True,False,False,Prepare and cook Chickpea Buddha Bowl as desired.
+Turkey Sandwich,"meat, sandwich, gluten",3.0,40,lunch,505,370,24,4.0,15,200,True,False,True,False,False,True,True,True,False,True,False,False,True,Prepare and cook Turkey Sandwich as desired.
+Zucchini Noodles,"low-carb, vegan",2.0,0,lunch,67,200,6,4.0,6,180,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Zucchini Noodles as desired.
+Eggplant Parmesan,"vegetarian, italian, dairy",6.0,35,lunch,412,340,14,5.0,17,230,True,False,True,False,False,True,True,True,True,True,False,False,True,Prepare and cook Eggplant Parmesan as desired.
+Grilled Salmon,"fish, grill",0.0,60,dinner,136,380,36,1.0,17,200,True,True,True,False,False,True,True,True,True,True,False,False,True,Prepare and cook Grilled Salmon as desired.
+Veggie Stir Fry,"vegan, asian",5.0,0,dinner,100,230,9,5.0,8,220,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Veggie Stir Fry as desired.
+Beef Burger,"beef, grill, gluten",12.0,80,dinner,556,570,32,3.0,27,250,False,False,False,False,False,True,True,True,False,True,False,True,False,Prepare and cook Beef Burger as desired.
+Gluten-Free Pasta,"gluten-free, pasta",3.0,10,dinner,172,320,11,4.0,13,220,True,False,True,False,True,True,True,True,False,True,False,False,True,"Boil pasta/rice, prepare sauce, then mix."
+Stuffed Peppers,"vegetarian, low-fat",4.0,5,dinner,135,250,10,5.0,9,180,True,True,True,False,False,True,True,True,True,True,True,False,False,Prepare and cook Stuffed Peppers as desired.
+Chicken Stir Fry,"high-protein, asian",4.0,70,dinner,226,390,28,4.0,13,220,True,False,True,False,False,True,True,True,True,True,False,False,True,Prepare and cook Chicken Stir Fry as desired.
+Black Bean Tacos,"vegan, mexican",2.0,0,dinner,171,310,13,7.0,9,200,True,False,True,True,False,True,True,True,True,True,False,False,True,Prepare and cook Black Bean Tacos as desired.
+Baked Cod,"fish, low-fat",1.0,50,dinner,112,270,24,1.0,7,190,True,True,True,False,False,True,True,True,True,True,True,False,False,Prepare and cook Baked Cod as desired.
+Sweet Potato Curry,"vegan, indian",8.0,0,dinner,168,330,8,6.0,14,260,True,False,True,True,False,True,True,True,True,True,False,False,True,Prepare and cook Sweet Potato Curry as desired.
+Oatmeal with Berries,"vegetarian, sweet",7.0,5,breakfast,87,210,9,5.0,6,150,True,True,True,False,False,True,True,True,True,True,True,False,False,Prepare and cook Oatmeal with Berries as desired.
+Avocado Toast,"vegetarian, gluten-free",2.0,0,breakfast,152,250,8,6.0,13,120,True,False,True,False,True,True,True,True,False,True,True,False,False,"Toast bread, top with ingredients."
+Vegan Smoothie,"vegan, drink",9.0,0,breakfast,82,190,6,3.0,4,250,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Vegan Smoothie as desired.
+Boiled Eggs,high-protein,1.0,300,breakfast,155,180,16,1.0,13,100,True,False,False,False,False,True,True,True,True,True,True,False,False,Prepare and cook Boiled Eggs as desired.
+Chia Pudding,"vegan, sweet",4.0,0,breakfast,56,170,7,7.0,8,100,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Chia Pudding as desired.
+Greek Yogurt Parfait,"vegetarian, sweet, dairy",10.0,10,breakfast,102,230,15,2.0,8,150,True,True,True,False,False,True,True,True,True,True,True,False,False,"Layer yogurt, fruit, and granola in a glass."
+Protein Pancakes,"high-protein, sweet, egg",6.0,30,breakfast,134,320,23,3.0,9,180,True,True,True,False,False,True,True,True,True,False,False,False,True,"Mix batter, cook on griddle until golden."
+Almond Butter Toast,"vegetarian, gluten-free, nut",4.0,0,breakfast,160,270,10,4.0,15,100,True,False,True,False,True,True,True,True,False,True,True,False,False,"Toast bread, top with ingredients."
+Spinach Omelette,"vegetarian, high-protein, egg",1.0,220,breakfast,137,240,17,2.0,13,140,True,True,False,False,False,True,True,True,True,False,True,False,False,"Beat eggs, cook in pan with fillings, fold and serve."
+Quinoa Salad,"vegan, gluten-free",3.0,0,lunch,106,280,11,6.0,12,200,True,True,True,True,True,True,True,True,False,True,True,False,False,Chop vegetables and mix with dressing.
+Grilled Chicken Breast,"high-protein, grill",0.0,85,lunch,156,320,34,1.0,9,180,True,False,False,False,False,True,True,True,True,True,False,False,True,Prepare and cook Grilled Chicken Breast as desired.
+Vegan Wrap,"vegan, wrap",7.0,0,lunch,116,280,15,5.0,13,200,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Vegan Wrap as desired.
+Tofu Salad,"vegan, salad, soy",5.0,0,lunch,131,250,20,7.0,11,180,True,True,True,True,False,True,False,True,True,True,True,False,False,Chop vegetables and mix with dressing.
+Lentil Soup,"vegan, soup",2.0,0,lunch,111,210,12,8.0,6,300,True,True,True,True,False,True,True,True,True,True,True,False,False,"Combine ingredients in pot, simmer until cooked."
+Chickpea Buddha Bowl,"vegan, gluten-free",5.0,0,lunch,112,300,13,7.0,12,250,True,True,True,True,True,True,True,True,False,True,True,False,False,Prepare and cook Chickpea Buddha Bowl as desired.
+Turkey Sandwich,"meat, sandwich, gluten",3.0,40,lunch,497,380,25,4.0,16,200,True,False,True,False,False,True,True,True,False,True,False,False,True,Prepare and cook Turkey Sandwich as desired.
+Zucchini Noodles,"low-carb, vegan",2.0,0,lunch,62,210,7,4.0,7,180,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Zucchini Noodles as desired.
+Eggplant Parmesan,"vegetarian, italian, dairy",6.0,35,lunch,428,350,15,5.0,18,230,True,False,True,False,False,True,True,True,True,True,False,False,True,Prepare and cook Eggplant Parmesan as desired.
+Grilled Salmon,"fish, grill",0.0,60,dinner,138,390,37,1.0,18,200,True,True,True,False,False,True,True,True,True,True,False,False,True,Prepare and cook Grilled Salmon as desired.
+Veggie Stir Fry,"vegan, asian",5.0,0,dinner,91,240,10,5.0,9,220,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Veggie Stir Fry as desired.
+Beef Burger,"beef, grill, gluten",12.0,80,dinner,567,580,33,3.0,28,250,False,False,False,False,False,True,True,True,False,True,False,True,False,Prepare and cook Beef Burger as desired.
+Gluten-Free Pasta,"gluten-free, pasta",3.0,10,dinner,170,330,12,4.0,14,220,True,False,True,False,True,True,True,True,False,True,False,False,True,"Boil pasta/rice, prepare sauce, then mix."
+Stuffed Peppers,"vegetarian, low-fat",4.0,5,dinner,132,260,11,5.0,10,180,True,True,True,False,False,True,True,True,True,True,True,False,False,Prepare and cook Stuffed Peppers as desired.
+Chicken Stir Fry,"high-protein, asian",4.0,70,dinner,244,400,29,4.0,14,220,True,False,True,False,False,True,True,True,True,True,False,False,True,Prepare and cook Chicken Stir Fry as desired.
+Black Bean Tacos,"vegan, mexican",2.0,0,dinner,192,320,14,7.0,10,200,True,False,True,True,False,True,True,True,True,True,False,False,True,Prepare and cook Black Bean Tacos as desired.
+Baked Cod,"fish, low-fat",1.0,50,dinner,127,280,25,1.0,8,190,True,True,True,False,False,True,True,True,True,True,True,False,False,Prepare and cook Baked Cod as desired.
+Sweet Potato Curry,"vegan, indian",8.0,0,dinner,166,340,9,6.0,15,260,True,False,True,True,False,True,True,True,True,True,False,False,True,Prepare and cook Sweet Potato Curry as desired.
+Oatmeal with Berries,"vegetarian, sweet",7.0,5,breakfast,94,220,10,6.0,7,150,True,True,True,False,False,True,True,True,True,True,True,False,False,Prepare and cook Oatmeal with Berries as desired.
+Avocado Toast,"vegetarian, gluten-free",2.0,0,breakfast,170,260,9,7.0,14,120,True,False,True,False,True,True,True,True,False,True,True,False,False,"Toast bread, top with ingredients."
+Vegan Smoothie,"vegan, drink",9.0,0,breakfast,65,200,7,4.0,5,250,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Vegan Smoothie as desired.
+Boiled Eggs,high-protein,1.0,300,breakfast,167,190,17,2.0,14,100,True,False,False,False,False,True,True,True,True,True,True,False,False,Prepare and cook Boiled Eggs as desired.
+Chia Pudding,"vegan, sweet",4.0,0,breakfast,56,180,8,8.0,9,100,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Chia Pudding as desired.
+Greek Yogurt Parfait,"vegetarian, sweet, dairy",10.0,10,breakfast,81,240,16,3.0,9,150,True,True,True,False,False,True,True,True,True,True,True,False,False,"Layer yogurt, fruit, and granola in a glass."
+Protein Pancakes,"high-protein, sweet, egg",6.0,30,breakfast,122,330,24,4.0,10,180,True,True,True,False,False,True,True,True,True,False,False,False,True,"Mix batter, cook on griddle until golden."
+Almond Butter Toast,"vegetarian, gluten-free, nut",4.0,0,breakfast,165,280,11,5.0,16,100,True,False,True,False,True,True,True,True,False,True,True,False,False,"Toast bread, top with ingredients."
+Spinach Omelette,"vegetarian, high-protein, egg",1.0,220,breakfast,121,250,18,3.0,14,140,True,True,False,False,False,True,True,True,True,False,True,False,False,"Beat eggs, cook in pan with fillings, fold and serve."
+Quinoa Salad,"vegan, gluten-free",3.0,0,lunch,97,290,12,7.0,13,200,True,True,True,True,True,True,True,True,False,True,True,False,False,Chop vegetables and mix with dressing.
+Grilled Chicken Breast,"high-protein, grill",0.0,85,lunch,156,330,35,2.0,10,180,True,False,False,False,False,True,True,True,True,True,False,False,True,Prepare and cook Grilled Chicken Breast as desired.
+Vegan Wrap,"vegan, wrap",7.0,0,lunch,91,290,16,6.0,14,200,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Vegan Wrap as desired.
+Tofu Salad,"vegan, salad, soy",5.0,0,lunch,129,260,21,8.0,12,180,True,True,True,True,False,True,False,True,True,True,True,False,False,Chop vegetables and mix with dressing.
+Lentil Soup,"vegan, soup",2.0,0,lunch,125,220,13,9.0,7,300,True,True,True,True,False,True,True,True,True,True,True,False,False,"Combine ingredients in pot, simmer until cooked."
+Chickpea Buddha Bowl,"vegan, gluten-free",5.0,0,lunch,121,310,14,8.0,13,250,True,True,True,True,True,True,True,True,False,True,False,False,True,Prepare and cook Chickpea Buddha Bowl as desired.
+Turkey Sandwich,"meat, sandwich, gluten",3.0,40,lunch,495,390,26,5.0,17,200,True,False,True,False,False,True,True,True,False,True,False,False,True,Prepare and cook Turkey Sandwich as desired.
+Zucchini Noodles,"low-carb, vegan",2.0,0,lunch,83,220,8,5.0,8,180,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Zucchini Noodles as desired.
+Eggplant Parmesan,"vegetarian, italian, dairy",6.0,35,lunch,414,360,16,6.0,19,230,True,False,True,False,False,True,True,True,True,True,False,False,True,Prepare and cook Eggplant Parmesan as desired.
+Grilled Salmon,"fish, grill",0.0,60,dinner,117,400,38,2.0,19,200,True,True,True,False,False,True,True,True,True,True,False,False,True,Prepare and cook Grilled Salmon as desired.
+Veggie Stir Fry,"vegan, asian",5.0,0,dinner,117,250,11,6.0,10,220,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Veggie Stir Fry as desired.
+Beef Burger,"beef, grill, gluten",12.0,80,dinner,560,590,34,4.0,29,250,False,False,False,False,False,True,True,True,False,True,False,True,False,Prepare and cook Beef Burger as desired.
+Gluten-Free Pasta,"gluten-free, pasta",3.0,10,dinner,161,340,13,5.0,15,220,True,False,True,False,True,True,True,True,False,True,False,False,True,"Boil pasta/rice, prepare sauce, then mix."
+Stuffed Peppers,"vegetarian, low-fat",4.0,5,dinner,134,270,12,6.0,11,180,True,True,True,False,False,True,True,True,True,True,True,False,False,Prepare and cook Stuffed Peppers as desired.
+Chicken Stir Fry,"high-protein, asian",4.0,70,dinner,248,410,30,5.0,15,220,True,False,True,False,False,True,True,True,True,True,False,False,True,Prepare and cook Chicken Stir Fry as desired.
+Black Bean Tacos,"vegan, mexican",2.0,0,dinner,184,330,15,8.0,11,200,True,False,True,True,False,True,True,True,True,True,False,False,True,Prepare and cook Black Bean Tacos as desired.
+Baked Cod,"fish, low-fat",1.0,50,dinner,106,290,26,2.0,9,190,True,True,True,False,False,True,True,True,True,True,True,False,False,Prepare and cook Baked Cod as desired.
+Sweet Potato Curry,"vegan, indian",8.0,0,dinner,152,350,10,7.0,16,260,True,False,True,True,False,True,True,True,True,True,False,False,True,Prepare and cook Sweet Potato Curry as desired.
+Oatmeal with Berries,"vegetarian, sweet",7.0,5,breakfast,93,230,11,6.0,8,150,True,True,True,False,False,True,True,True,True,True,True,False,False,Prepare and cook Oatmeal with Berries as desired.
+Avocado Toast,"vegetarian, gluten-free",2.0,0,breakfast,167,270,10,7.0,15,120,True,False,True,False,True,True,True,True,False,True,True,False,False,"Toast bread, top with ingredients."
+Vegan Smoothie,"vegan, drink",9.0,0,breakfast,90,210,8,4.0,6,250,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Vegan Smoothie as desired.
+Boiled Eggs,high-protein,1.0,300,breakfast,142,200,18,2.0,15,100,True,False,False,False,False,True,True,True,True,True,True,False,False,Prepare and cook Boiled Eggs as desired.
+Chia Pudding,"vegan, sweet",4.0,0,breakfast,58,190,9,8.0,10,100,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Chia Pudding as desired.
+Greek Yogurt Parfait,"vegetarian, sweet, dairy",10.0,10,breakfast,83,250,17,3.0,10,150,True,True,True,False,False,True,True,True,True,True,True,False,False,"Layer yogurt, fruit, and granola in a glass."
+Protein Pancakes,"high-protein, sweet, egg",6.0,30,breakfast,127,340,25,4.0,11,180,True,True,True,False,False,True,True,True,True,False,False,False,True,"Mix batter, cook on griddle until golden."
+Almond Butter Toast,"vegetarian, gluten-free, nut",4.0,0,breakfast,142,290,12,5.0,17,100,True,False,True,False,True,True,True,True,False,True,True,False,False,"Toast bread, top with ingredients."
+Spinach Omelette,"vegetarian, high-protein, egg",1.0,220,breakfast,129,260,19,3.0,15,140,True,True,False,False,False,True,True,True,True,False,True,False,False,"Beat eggs, cook in pan with fillings, fold and serve."
+Quinoa Salad,"vegan, gluten-free",3.0,0,lunch,97,300,13,7.0,14,200,True,True,True,True,True,True,True,True,False,True,True,False,False,Chop vegetables and mix with dressing.
+Grilled Chicken Breast,"high-protein, grill",0.0,85,lunch,136,340,36,2.0,11,180,True,True,False,False,False,True,True,True,True,True,False,False,True,Prepare and cook Grilled Chicken Breast as desired.
+Vegan Wrap,"vegan, wrap",7.0,0,lunch,109,300,17,6.0,15,200,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Vegan Wrap as desired.
+Tofu Salad,"vegan, salad, soy",5.0,0,lunch,148,270,22,8.0,13,180,True,False,True,True,False,True,False,True,True,True,True,False,False,Chop vegetables and mix with dressing.
+Lentil Soup,"vegan, soup",2.0,0,lunch,106,230,14,9.0,8,300,True,True,True,True,False,True,True,True,True,True,True,False,False,"Combine ingredients in pot, simmer until cooked."
+Chickpea Buddha Bowl,"vegan, gluten-free",5.0,0,lunch,117,320,15,8.0,14,250,True,True,True,True,True,True,True,True,False,True,False,False,True,Prepare and cook Chickpea Buddha Bowl as desired.
+Turkey Sandwich,"meat, sandwich, gluten",3.0,40,lunch,483,400,27,5.0,18,200,True,False,True,False,False,True,True,True,False,True,False,False,True,Prepare and cook Turkey Sandwich as desired.
+Zucchini Noodles,"low-carb, vegan",2.0,0,lunch,77,230,9,5.0,9,180,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Zucchini Noodles as desired.
+Eggplant Parmesan,"vegetarian, italian, dairy",6.0,35,lunch,422,370,17,6.0,20,230,True,False,True,False,False,True,True,True,True,True,False,False,True,Prepare and cook Eggplant Parmesan as desired.
+Grilled Salmon,"fish, grill",0.0,60,dinner,111,410,39,2.0,20,200,True,True,True,False,False,True,True,True,True,True,False,False,True,Prepare and cook Grilled Salmon as desired.
+Veggie Stir Fry,"vegan, asian",5.0,0,dinner,112,260,12,6.0,11,220,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Veggie Stir Fry as desired.
+Beef Burger,"beef, grill, gluten",12.0,80,dinner,564,600,35,4.0,30,250,False,False,False,False,False,True,True,True,False,True,False,True,False,Prepare and cook Beef Burger as desired.
+Gluten-Free Pasta,"gluten-free, pasta",3.0,10,dinner,170,350,14,5.0,16,220,True,False,True,False,True,True,True,True,False,True,False,False,True,"Boil pasta/rice, prepare sauce, then mix."
+Stuffed Peppers,"vegetarian, low-fat",4.0,5,dinner,134,280,13,6.0,12,180,True,True,True,False,False,True,True,True,True,True,True,False,False,Prepare and cook Stuffed Peppers as desired.
+Chicken Stir Fry,"high-protein, asian",4.0,70,dinner,227,420,31,5.0,16,220,True,False,True,False,False,True,True,True,True,True,False,False,True,Prepare and cook Chicken Stir Fry as desired.
+Black Bean Tacos,"vegan, mexican",2.0,0,dinner,194,340,16,8.0,12,200,True,False,True,True,False,True,True,True,True,True,False,False,True,Prepare and cook Black Bean Tacos as desired.
+Baked Cod,"fish, low-fat",1.0,50,dinner,104,300,27,2.0,10,190,True,True,True,False,False,True,True,True,True,True,True,False,False,Prepare and cook Baked Cod as desired.
+Sweet Potato Curry,"vegan, indian",8.0,0,dinner,154,360,11,7.0,17,260,True,False,True,True,False,True,True,True,True,True,False,False,True,Prepare and cook Sweet Potato Curry as desired.
+Greek Salad,"vegetarian, gluten-free",3.0,5,breakfast,300,180,5,3.0,12,200,True,False,True,False,True,True,True,True,False,True,True,False,False,Chop vegetables and mix with dressing.
+Veggie Omelette,high-protein,1.0,200,breakfast,450,220,18,1.0,15,150,True,False,False,False,False,True,True,True,True,True,True,False,False,"Beat eggs, cook in pan with fillings, fold and serve."
+Avocado Toast,vegetarian,1.0,0,breakfast,220,160,4,5.0,9,100,True,False,True,False,False,True,True,True,True,True,True,False,False,"Toast bread, top with ingredients."
+Chia Seed Pudding,"vegan, high-fiber",6.0,0,breakfast,75,240,8,10.0,12,150,True,True,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Chia Seed Pudding as desired.
+Quinoa & Chickpea Salad,"vegan, gluten-free, high-protein",4.0,0,lunch,280,320,12,8.0,9,250,True,False,True,True,True,True,True,True,False,True,False,False,True,Chop vegetables and mix with dressing.
+Lentil Soup,"vegan, low-fat, high-fiber",3.0,0,lunch,400,210,12,8.0,3,300,True,False,True,True,False,True,True,True,True,True,True,False,False,"Combine ingredients in pot, simmer until cooked."
+Grilled Chicken Salad,"high-protein, low-fat",3.0,75,lunch,350,280,30,4.0,8,250,True,False,True,False,False,True,True,True,True,True,True,False,False,Chop vegetables and mix with dressing.
+Tofu Stir Fry,"vegan, high-protein",5.0,0,lunch,500,260,18,4.0,14,200,True,False,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Tofu Stir Fry as desired.
+Grilled Salmon,"high-protein, low-carb",0.0,80,dinner,70,350,34,0.0,20,180,True,True,False,False,False,True,True,True,True,True,False,False,True,Prepare and cook Grilled Salmon as desired.
+Stir-Fried Vegetables,"vegan, low-fat",5.0,0,dinner,300,150,5,6.0,4,200,True,False,True,True,False,True,True,True,True,True,True,False,False,Prepare and cook Stir-Fried Vegetables as desired.
+Beef & Broccoli,high-protein,4.0,65,dinner,450,330,28,3.0,18,220,True,False,True,False,False,True,True,True,True,True,False,False,True,Prepare and cook Beef & Broccoli as desired.
+Margherita Pizza,"italian, vegetarian",4.0,15,dinner,600,300,12,2.0,10,200,True,False,True,False,False,True,True,True,True,True,True,False,False,"Top dough with sauce and cheese, bake until golden."
+Pasta Pomodoro,italian,5.0,5,dinner,400,290,8,3.0,6,180,True,False,True,False,False,True,True,True,True,True,True,False,False,"Boil pasta/rice, prepare sauce, then mix."
+Caprese Salad,"italian, vegetarian, gluten-free",3.0,25,lunch,300,250,10,2.0,20,150,True,False,True,False,True,True,True,True,False,True,True,False,False,Chop vegetables and mix with dressing.
+Minestrone Soup,"italian, vegan, high-fiber",5.0,0,lunch,450,180,7,6.0,4,300,True,False,True,True,False,True,True,True,True,True,True,False,False,"Combine ingredients in pot, simmer until cooked."
+Risotto alla Milanese,italian,1.5,20,dinner,500,320,8,1.2,9,180,True,False,True,False,False,True,True,True,True,True,False,False,True,"Boil pasta/rice, prepare sauce, then mix."
+Bruschetta,"italian, vegetarian",2.5,0,breakfast,300,150,4,2.0,7,100,True,False,True,False,False,True,True,True,True,True,True,False,False,"Toast bread, top with tomato-basil mixture."
+Gluten-Free Pancakes,"gluten-free, vegetarian",6.0,30,breakfast,250,200,5,3.0,8,120,True,False,True,False,True,True,True,True,False,True,True,False,False,"Mix batter, cook on griddle until golden."
+Sugar-Free Yogurt Parfait,diabetes-friendly,0.0,5,breakfast,80,100,8,2.0,2,150,True,True,True,False,False,True,True,True,True,True,True,False,False,"Layer yogurt, fruit, and granola in a glass."
+Low-Sodium Lentil Stew,"hypertension-friendly, vegan",4.0,0,dinner,140,220,12,8.0,3,300,True,True,True,True,False,True,True,True,True,True,True,False,False,"Combine ingredients in pot, simmer until cooked."
